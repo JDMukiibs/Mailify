@@ -1,0 +1,6 @@
+Dear ${PERSON_NAME},
+
+Whatever you want to put in the message body.
+
+Yours sincerely,
+Your Name
