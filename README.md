@@ -18,7 +18,7 @@ I will probably be working on improving maybe add a user interface make it easie
 ## How to make it work?
 
 First follow the steps on https://developers.google.com/gmail/api/quickstart/python ,so you can get your personal credentials.json file which you should keep very carefully.
-You could leave it after getting your .json file but then the first time you un this script you'll have to do the authorization part, so I recommend finishing up first with the steps given by Google.
+You could leave it after getting your .json file but then the first time you run this script you'll have to do the authorization part, so I recommend finishing up first with the steps given by Google.
 
 After that, simply change the stuff you need to change as also commented out within the script. Then, run it the same way you run the quickstart.py. 
 
